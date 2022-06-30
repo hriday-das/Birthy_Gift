@@ -1,7 +1,7 @@
 body {
     text-align: center;
     font-family: 'Happy Monkey', cursive;
-    background: #a2d2ff;
+    background: linear-gradient(#a2d2ff, #EFB0C9);
     color: #ffffff;
 }
 
@@ -63,19 +63,19 @@ h1, h2, h3, h4, p {
     background-image: url("img/claire-dancing.gif");
 }
 #gift-img-hot:hover {
-    background-image: url("images/hot.gif");
+    background-image: url("img/oh-my-hot.gif");
 }
 
 #gift-img-genius:hover {
-    background-image: url("images/genius.gif");
+    background-image: url("img/genius.-gif.gif");
 }
 
 #gift-img-badass:hover {
-    background-image: url("images/badass.gif");
+    background-image: url("img/badass.gif");
 }
 
 #gift-img-cheers:hover {
-    background-image: url("images/cheers.gif");
+    background-image: url("img/giphy-downsized-large.gif");
 }
 
 #footer {
